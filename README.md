@@ -2,7 +2,7 @@
 
 Science research project by Josh Roe and Connor Lee, October 2024 – February 2025. It placed 3rd in Robotics and Intelligent Machines at the 2025 Palos Verdes Peninsula Science Fair.
 
-A VEX model vehicle was built to test a local, predictive approach to autonomous collision avoidance. It combines:
+A VEX model vehicle was built to test a local, predictive approach to autonomous collision avoidance, validated through simulations and physical tests. It combines:
 
 - **Odometry** for localization from motor encoders
 - **Dynamic Window Approach (DWA)** for path planning around obstacles
